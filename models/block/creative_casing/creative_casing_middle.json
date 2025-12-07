@@ -1,0 +1,7 @@
+{
+    "__comment": "Model for when all sides are connected.",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "kubejs:creative_casing/creative_casing4C"
+    }
+}

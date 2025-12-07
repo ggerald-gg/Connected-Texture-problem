@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when three adjacent sides connected sides in a T shape.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "kubejs:creative_casing/creative_casing0C",
+        "down": "kubejs:creative_casing/creative_casing2C_we",
+		"up": "kubejs:creative_casing/creative_casing4C",
+		"north": "kubejs:creative_casing/creative_casing3C_uwe",
+		"south": "kubejs:creative_casing/creative_casing3C_uwe",
+		"west": "kubejs:creative_casing/creative_casing4C",
+		"east": "kubejs:creative_casing/creative_casing4C"
+    }
+}

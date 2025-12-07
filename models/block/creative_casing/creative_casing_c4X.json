@@ -1,0 +1,13 @@
+{
+    "__comment": "Model file for four connected sides in a cross shape.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "kubejs:creative_casing/creative_casing0C",
+        "down": "kubejs:creative_casing/creative_casing4C",
+		"up": "kubejs:creative_casing/creative_casing4C",
+		"north": "kubejs:creative_casing/creative_casing4C",
+		"south": "kubejs:creative_casing/creative_casing4C",
+		"west": "kubejs:creative_casing/creative_casing4C",
+		"east": "kubejs:creative_casing/creative_casing4C"
+    }
+}
