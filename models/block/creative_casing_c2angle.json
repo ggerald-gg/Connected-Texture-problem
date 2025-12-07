@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when two adgacent sides are connected.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "kubejs:creative_casing/creative_casing0c",
+        "down": "kubejs:creative_casing/creative_casing1c_e",
+		"up": "kubejs:creative_casing/creative_casing4c",
+		"north": "kubejs:creative_casing/creative_casing2c_uw",
+		"south": "kubejs:creative_casing/creative_casing2c_ue",
+		"west": "kubejs:creative_casing/creative_casing1c_u",
+		"east": "kubejs:creative_casing/creative_casing4c"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when two sides are connected.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "kubejs:creative_casing/creative_casing0c",
+        "down": "kubejs:creative_casing/creative_casing4c",
+		"up": "kubejs:creative_casing/creative_casing4c",
+		"north": "kubejs:creative_casing/creative_casing2c_ud",
+		"south": "kubejs:creative_casing/creative_casing2c_ud",
+		"west": "kubejs:creative_casing/creative_casing2c_ud",
+		"east": "kubejs:creative_casing/creative_casing2c_ud"
+    }
+}
